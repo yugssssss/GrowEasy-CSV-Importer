@@ -1,0 +1,5 @@
+created_time,full_name,email,phone_number,company_name,city,region,platform,lead_status
+2026-05-13T14:20:48+05:30,John Doe,john.doe@example.com,+91 98765 43210,GrowEasy,Mumbai,Maharashtra,fb,interested
+2026-05-13T14:25:30+05:30,Sarah Johnson,sarah.johnson@example.com,+919876543211,Tech Solutions,Bangalore,Karnataka,fb,no answer
+2026-05-13T14:30:15+05:30,Rajesh Patel,rajesh.patel@example.com,+919876543212,Startup Inc,Delhi,Delhi,fb,not interested
+2026-05-13T14:35:22+05:30,Priya Singh,priya.singh@example.com,+919876543213,Enterprise Corp,Pune,Maharashtra,fb,deal closed
